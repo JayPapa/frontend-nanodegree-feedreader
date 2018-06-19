@@ -52,7 +52,7 @@ $(function() {
     });
 
 
-    /* TODO: Write a new test suite named "The menu" */
+    /* Write a new test suite named "The menu" */
     describe('The menu', function() {
 
         /* Write a test that ensures the menu element is
@@ -100,7 +100,7 @@ $(function() {
     /* Write a new test suite named "New Feed Selection" */
     describe('New Feed Selection', function(){
          let first, second;
-        /* TODO: Write a test that ensures when a new feed is loaded
+        /* Write a test that ensures when a new feed is loaded
          * by the loadFeed function that the content actually changes.
          * Remember, loadFeed() is asynchronous.
          */
